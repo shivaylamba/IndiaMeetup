@@ -14,5 +14,4 @@ The event will be streamed live on **https://www.twitch.tv/github**
 | Putting Github at your fingertips   | 20:20 IST - 21:00 IST  | **Neha Batra**, Senior Engineering Manager     |  
 | Wrap-up   | 21:00 IST - 21:20 IST   | **Martin Woodward**, Director Developer Relations     |  
 
-
-Follow us on twitter @GitHubIndia to stay updated on all GitHub community activities!!
+Follow us on twitter [@GitHubIndia](https://twitter.com/GitHubIndia) to stay updated on all GitHub community activities!!
