@@ -1,3 +1,4 @@
+![GitHub India Banner](https://user-images.githubusercontent.com/20879614/74366244-7c05d400-4d84-11ea-84c6-882636e5510a.png)
 # GitHub India Community Meetup
 **15th May 2020 | 6:30PM IST To 9:30PM IST** <br><br>
 
@@ -11,7 +12,7 @@ The event will be streamed live on **https://www.twitch.tv/github**
 | GitHub Actions  | 18:50 IST - 19:20 IST | **Chris Patterson**, Product Manager    | 
 | Managing Developer Community on GitHub   | 19:20 IST - 20:00 IST   | **Brian Douglas**, Developer Advocate   | 
 | GitHub Discussions : India community   | 20:00 IST - 20:20 IST  | **Becca Zandstein**, Product Manager    | 
-| Putting Github at your fingertips   | 20:20 IST - 21:00 IST  | **Neha Batra**, Senior Engineering Manager     |  
+| Putting GitHub at your fingertips   | 20:20 IST - 21:00 IST  | **Neha Batra**, Senior Engineering Manager     |  
 | Wrap-up   | 21:00 IST - 21:20 IST   | **Martin Woodward**, Director Developer Relations     |  
 
 Follow us on twitter [@GitHubIndia](https://twitter.com/GitHubIndia) to stay updated on all GitHub community activities!!
