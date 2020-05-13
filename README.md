@@ -2,7 +2,7 @@
 # GitHub India Community Meetup
 **15th May 2020 | 6:30PM IST To 9:30PM IST** <br><br>
 
-Come join us as we hear from the GitHub Product team on recent announcements at GitHub Satellite and the what we are working on for the community<br>
+Come join us as we hear from the GitHub Product team on recent announcements at GitHub Satellite and what we are working on for the community.<br>
 The event will be streamed live on **https://www.twitch.tv/github**
 
 **AGENDA**
