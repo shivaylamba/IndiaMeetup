@@ -8,9 +8,10 @@ The event will be streamed live on **https://www.twitch.tv/github**
 **AGENDA**
 | Session  | Time (IST) | Speaker  |
 |---|---|---|
-| Welcome Keynote  | 18:30 - 18:50 | **Shanku Niyogi**, Chief Product Officer   |
+| Welcome  |  | **Sam Hunt**, Vice President - APAC   |
+| Keynote  | 18:30 - 18:50 | **Shanku Niyogi**, Senior Vice President - Product   |
 | GitHub Actions  | 18:50 - 19:20 | **Chris Patterson**, Product Manager    | 
-| Managing Developer Community on GitHub   | 19:20 - 20:00 | **Brian Douglas**, Developer Advocate   | 
+| Managing Developer Community on GitHub   | 19:20 - 20:00 | **Brian Douglas**, Developer Advocate ; **Suraj Shetty**, [Frappe](https://github.com/frappe) ; **Kovid Goyal**, [Calibre](https://github.com/kovidgoyal/calibre)   | 
 | GitHub Discussions : India community   | 20:00 - 20:20 | **Becca Zandstein**, Product Manager    | 
 | Putting GitHub at your fingertips   | 20:20 - 21:00 | **Neha Batra**, Senior Engineering Manager     |  
 | Wrap-up   | 21:00 - 21:20 | **Martin Woodward**, Director Developer Relations     |  
